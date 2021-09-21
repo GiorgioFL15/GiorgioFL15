@@ -1,6 +1,5 @@
 ### Olá! Eu sou o Giorgio Frigotto! 👋
 
-- 🔭 Estagiário
 - 🌱 Estudando Front-End e Back-end
 
 <div>
