@@ -1,6 +1,7 @@
 ### Olá! Eu sou o Giorgio Frigotto! 👋
 
-- 🌱 Programador Full Stack
+- 🌱 Programador Back-End
+
 
 <div>
   <a href="https://github.com/GiorgioFL15">
