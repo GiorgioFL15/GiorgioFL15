@@ -1,4 +1,4 @@
-### Olá! Eu sou o Giorgio Frigotto! 👋
+### Olá! Eu sou o Giorgio Frigotto Lovatel! 👋
 
 - 🌱 Programador Back-End
 
