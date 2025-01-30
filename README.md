@@ -1,6 +1,8 @@
-### Olá! Eu sou o Giorgio Frigotto Lovatel! 👋
+### 👋 Hi! I'm Giorgio Frigotto Lovatel
 
-- 🌱 Programador Back-End
+💻 Mid-Level Back-End Developer
+🎓 Graduated in Systems Analysis and Development from Senac Brazil
+🏢 Currently working at Company Hero
 
 
 <div>
