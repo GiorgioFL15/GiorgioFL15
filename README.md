@@ -1,6 +1,7 @@
 ### 👋 Hi, I'm Giorgio Frigotto Lovatel
 
 **Senior Software Engineer** · Backend, Payments & Integrations · AI-assisted engineering
+
 📍 Florianópolis, Brazil · 🏢 Company Hero
 
 I build transactional platforms, financial integrations and event-driven systems in **Python, Node.js and TypeScript** on AWS, and I work end to end, from backend to front end (React/Next) and mobile (Flutter). I use AI agents as part of my engineering method, inside a workflow of specs, tests and security checks.
