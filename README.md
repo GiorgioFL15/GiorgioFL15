@@ -29,12 +29,6 @@ I build transactional platforms, financial integrations and event-driven systems
   <img height="32" alt="Docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 </div>
 
-### 📊 GitHub stats
-<div>
-  <img height="160" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=GiorgioFL15&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiorgioFL15&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
 ### 🎓 Education
 Systems Analysis and Development (Senac), MBA in IT Project Management and postgraduate in AI for Developers (Anhanguera, in progress).
 
